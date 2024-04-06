@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Define the file name of the Excel workbook
-file_name = r"E:\Work\Data science NEL project\NEL Test Results.xlsx"
+file_name = #r"filepath"
 
 # Read the Excel file into a pandas DataFrame, selecting only the columns you need
 try:
