@@ -1,4 +1,4 @@
-# NEL-data
+# NEL test - flow meter accuracy data
 
 Background 
 
